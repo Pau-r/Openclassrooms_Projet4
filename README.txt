@@ -1,0 +1,1 @@
+Projet réalisé dans le cadre de ma formation de déveleppeur web chez Openclassroom. Je dois réaliser optimiser un site web existant.
